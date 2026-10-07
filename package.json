@@ -1,0 +1,8 @@
+{
+  "name": "gitops-demo-app",
+  "version": "1.0.0",
+  "description": "Tiny app for GitOps demos",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
